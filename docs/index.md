@@ -40,7 +40,7 @@ This site serves as an e-portfolio of my technical growth and hands-on Kubernete
 
 
 
-\*Created with ❤️ using GitHub Pages\*
+*
 
 
 
