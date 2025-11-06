@@ -6,7 +6,13 @@ This repository documents my hands-on journey learning **Kubernetes** by followi
 The goal of this ePortfolio is to demonstrate:
 - My understanding of core Kubernetes concepts  
 - Practical skills in deploying, managing, and securing containerized workloads  
-- Continuous learning and collaboration with DevOps and AppSec engineers  
+- Continuous learning and collaboration with DevOps and AppSec engineers
+
+## 🧪 Lab Repository
+All lab manifests, YAML files, and command outputs are stored in my main Kubernetes lab repo:
+
+👉 [View the lab repository on GitHub](https://github.com/jj-call/kubernetes-lab)
+
 
 ---
 
